@@ -1,0 +1,4 @@
+xsearch.egg-info/PKG-INFO
+xsearch.egg-info/SOURCES.txt
+xsearch.egg-info/dependency_links.txt
+xsearch.egg-info/top_level.txt
