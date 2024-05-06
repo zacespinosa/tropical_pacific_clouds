@@ -1,1 +1,5 @@
 data/
+figures/
+cloud_masking/cmip6
+cloud_masking/cmip5
+sandbox/
